@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🌐 Animated Portfolio Website
 
 A sleek, responsive, and fully customizable animated portfolio website built using React.js and Tailwind CSS. Perfect for showcasing your skills, projects, and professional profile with a modern design.
@@ -45,3 +46,7 @@ npm run build
 
 This project was created with ❤️ by Zahid Ali.
 If you like it, feel free to ⭐ this repository!
+=======
+# ZahidAli-Portfolio
+A modern and responsive personal portfolio website created to showcase my skills, projects, and professional experience. This repository is public so I can share my portfolio link, but it does not contain any private project code. Only portfolio content, screenshots, and deployment links are included.
+>>>>>>> 7931c76c64db05735077487537911fbc026493a8
