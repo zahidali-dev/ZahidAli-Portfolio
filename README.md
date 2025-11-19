@@ -14,7 +14,6 @@ A sleek, responsive, and fully customizable animated portfolio website built usi
 
 🎨 Tailwind CSS
 
-💾 Vercel (for deployment)
 
 📁 Features
 
