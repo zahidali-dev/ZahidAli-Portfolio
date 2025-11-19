@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://zahidali-dev.github.io/ZahidAli-Portfolio/"
-
+  "homepage": "https://zahidali-dev.github.io/zahidali-dev/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
